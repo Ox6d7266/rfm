@@ -4,6 +4,7 @@ title: "Модуль 6 MalDev Academy на русском"
 ---
 
 **Модуль 6 MalDev Academy на русском**
+
 ![]({{ site.baseurl }}/images/m41.jpg)
 
 ***Что такое процесс в ОС Windows***
